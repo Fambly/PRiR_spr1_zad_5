@@ -1,0 +1,2 @@
+Program łączący wszystkie programy dotyczące problemu myślących i jedzących Filozofów z wykładu 3 w jednym kodzie.
+Po uruchomieniu program pyta użytkownika o scenariusz oraz o liczbę filozofów(od 2 do 100).
